@@ -34,7 +34,7 @@ main_menu.add_cascade(label="Color theme", menu=color_theme)
 
 
 
-####################      File menu icons options    ######################
+####################      File menu icons options    #####################
 # icons of file menu
 new_icon = tk.PhotoImage(file="Icons/new.png")
 open_icon = tk.PhotoImage(file="Icons/open.png")
